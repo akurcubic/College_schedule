@@ -1,0 +1,8 @@
+-1 Datum MM/dd/yyyy HH:mm
+1 pocetak pocetak_termina
+2 kraj kraj_termina
+0 ucionica prostorija
+4 profesor dodatne_informacijeTermin
+3 predmet dodatne_informacijeTermin
+5 racunar dodatne_informacijeProstorija
+6 projektor dodatne_informacijeProstorija

@@ -1,0 +1,322 @@
+[
+  {
+    "pocetak_termina": "2023-10-05T09:15",
+    "kraj_termina": "2023-11-02T11:00",
+    "prostorija": {
+      "kapacitet": 20,
+      "oznaka_prostorije": "RAF1",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Mladen Jovanovic",
+      "predmet": "UUP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-06T16:00",
+    "kraj_termina": "2023-11-02T17:45",
+    "prostorija": {
+      "kapacitet": 20,
+      "oznaka_prostorije": "RAF1",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Marko Mladenovic",
+      "predmet": "UUP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-12T13:00",
+    "kraj_termina": "2023-11-09T14:45",
+    "prostorija": {
+      "kapacitet": 20,
+      "oznaka_prostorije": "RAF1",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Mladen Jovanovic",
+      "predmet": "UUP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-12T17:00",
+    "kraj_termina": "2023-11-09T18:45",
+    "prostorija": {
+      "kapacitet": 20,
+      "oznaka_prostorije": "RAF1",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Nikola Redzic",
+      "predmet": "SK"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-05T10:00",
+    "kraj_termina": "2023-11-02T11:45",
+    "prostorija": {
+      "kapacitet": 25,
+      "oznaka_prostorije": "RAF2",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Bojana Dimic Surla",
+      "predmet": "SK"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-06T17:15",
+    "kraj_termina": "2023-11-02T19:00",
+    "prostorija": {
+      "kapacitet": 25,
+      "oznaka_prostorije": "RAF2",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Igor Ciganovic",
+      "predmet": "IS"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-05T11:30",
+    "kraj_termina": "2023-11-02T13:15",
+    "prostorija": {
+      "kapacitet": 30,
+      "oznaka_prostorije": "RAF3",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "DA"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Lazar Dejanovic",
+      "predmet": "UUP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-06T18:30",
+    "kraj_termina": "2023-11-02T20:15",
+    "prostorija": {
+      "kapacitet": 30,
+      "oznaka_prostorije": "RAF3",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "DA"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Nikola Redzic",
+      "predmet": "UUP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-05T12:15",
+    "kraj_termina": "2023-11-02T14:00",
+    "prostorija": {
+      "kapacitet": 30,
+      "oznaka_prostorije": "RAF4",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "DA"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Milos Radenkovic",
+      "predmet": "VP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-06T19:15",
+    "kraj_termina": "2023-11-02T21:00",
+    "prostorija": {
+      "kapacitet": 30,
+      "oznaka_prostorije": "RAF4",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "DA"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Jefimija Najdic",
+      "predmet": "SK"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-05T13:00",
+    "kraj_termina": "2023-11-02T14:45",
+    "prostorija": {
+      "kapacitet": 25,
+      "oznaka_prostorije": "RAF5",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Jefimija Najdic",
+      "predmet": "UUP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-06T19:15",
+    "kraj_termina": "2023-11-02T20:00",
+    "prostorija": {
+      "kapacitet": 25,
+      "oznaka_prostorije": "RAF5",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Milos Radenkovic",
+      "predmet": "SJ"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-12T14:45",
+    "kraj_termina": "2023-11-09T16:30",
+    "prostorija": {
+      "kapacitet": 25,
+      "oznaka_prostorije": "RAF5",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Jefimija Najdic",
+      "predmet": "UUP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-14T11:00",
+    "kraj_termina": "2023-10-23T12:00",
+    "prostorija": {
+      "kapacitet": 25,
+      "oznaka_prostorije": "RAF5",
+      "dodatne_informacijeProstorija": {
+        "racunar": "DA",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Mladen Jovanovic",
+      "predmet": "UUP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-05T11:15",
+    "kraj_termina": "2023-11-02T13:00",
+    "prostorija": {
+      "kapacitet": 20,
+      "oznaka_prostorije": "RAF6",
+      "dodatne_informacijeProstorija": {
+        "racunar": "NE",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Zarko Radenkovic",
+      "predmet": "UUP"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-05T15:15",
+    "kraj_termina": "2023-11-02T17:00",
+    "prostorija": {
+      "kapacitet": 20,
+      "oznaka_prostorije": "RAF6",
+      "dodatne_informacijeProstorija": {
+        "racunar": "NE",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Sava Ivkovic",
+      "predmet": "TS"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-12T16:15",
+    "kraj_termina": "2023-11-09T18:00",
+    "prostorija": {
+      "kapacitet": 20,
+      "oznaka_prostorije": "RAF6",
+      "dodatne_informacijeProstorija": {
+        "racunar": "NE",
+        "projektor": "NE"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Sava Ivkovic",
+      "predmet": "TS"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-05T15:30",
+    "kraj_termina": "2023-11-02T17:15",
+    "prostorija": {
+      "kapacitet": 50,
+      "oznaka_prostorije": "RAF7",
+      "dodatne_informacijeProstorija": {
+        "racunar": "NE",
+        "projektor": "DA"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Milan Tomic",
+      "predmet": "IS"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-06T18:15",
+    "kraj_termina": "2023-11-02T20:00",
+    "prostorija": {
+      "kapacitet": 50,
+      "oznaka_prostorije": "RAF7",
+      "dodatne_informacijeProstorija": {
+        "racunar": "NE",
+        "projektor": "DA"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Mihail Jovanoski",
+      "predmet": "DS"
+    }
+  },
+  {
+    "pocetak_termina": "2023-10-14T09:00",
+    "kraj_termina": "2023-10-16T11:00",
+    "prostorija": {
+      "kapacitet": 50,
+      "oznaka_prostorije": "RAF7",
+      "dodatne_informacijeProstorija": {
+        "racunar": "NE",
+        "projektor": "DA"
+      }
+    },
+    "dodatne_informacijeTermin": {
+      "profesor": "Nikola Redzic",
+      "predmet": "SK"
+    }
+  }
+]

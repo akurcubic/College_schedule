@@ -1,0 +1,19 @@
+DateFormat MM/dd/yyyy HH:mm
+Prostorije u obliku:naziv,kapacitet,da li ima racunar (DA/NE),da li ima projektor (DA/NE)
+RAF1,20,DA,NE
+RAF2,25,DA,NE
+RAF3,30,DA,DA
+RAF4,30,DA,DA
+RAF5,25,DA,NE
+RAF6,20,NE,NE
+RAF7,50,NE,DA
+RAF8,50,NE,DA
+RAF9,40,NE,NE
+RAF10,30,NE,NE
+Pocetak 10/03/2023 09:00
+Kraj 01/13/2024 21:00
+Izuzeti dani
+11/10/2023
+11/15/2023
+12/12/2023
+12/25/2023

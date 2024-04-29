@@ -1,0 +1,182 @@
+[
+  {
+    "ucionica": "RAF1",
+    "pocetak": "10/05/2023 09:15",
+    "kraj": "11/02/2023 11:00",
+    "predmet": "UUP",
+    "profesor": "Mladen Jovanovic",
+    "racunar": "DA",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF2",
+    "pocetak": "10/05/2023 10:00",
+    "kraj": "11/02/2023 11:45",
+    "predmet": "SK",
+    "profesor": "Bojana Dimic Surla",
+    "racunar": "DA",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF3",
+    "pocetak": "10/05/2023 11:30",
+    "kraj": "11/02/2023 13:15",
+    "predmet": "UUP",
+    "profesor": "Lazar Dejanovic",
+    "racunar": "DA",
+    "projektor": "DA"
+  },
+  {
+    "ucionica": "RAF4",
+    "pocetak": "10/05/2023 12:15",
+    "kraj": "11/02/2023 14:00",
+    "predmet": "VP",
+    "profesor": "Milos Radenkovic",
+    "racunar": "DA",
+    "projektor": "DA"
+  },
+  {
+    "ucionica": "RAF5",
+    "pocetak": "10/05/2023 13:00",
+    "kraj": "11/02/2023 14:45",
+    "predmet": "UUP",
+    "profesor": "Jefimija Najdic",
+    "racunar": "DA",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF6",
+    "pocetak": "10/05/2023 11:15",
+    "kraj": "11/02/2023 13:00",
+    "predmet": "UUP",
+    "profesor": "Zarko Radenkovic",
+    "racunar": "NE",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF7",
+    "pocetak": "10/05/2023 15:30",
+    "kraj": "11/02/2023 17:15",
+    "predmet": "IS",
+    "profesor": "Milan Tomic",
+    "racunar": "NE",
+    "projektor": "DA"
+  },
+  {
+    "ucionica": "RAF1",
+    "pocetak": "10/06/2023 16:00",
+    "kraj": "11/02/2023 17:45",
+    "predmet": "UUP",
+    "profesor": "Marko Mladenovic",
+    "racunar": "DA",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF2",
+    "pocetak": "10/06/2023 17:15",
+    "kraj": "11/02/2023 19:00",
+    "predmet": "IS",
+    "profesor": "Igor Ciganovic",
+    "racunar": "DA",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF3",
+    "pocetak": "10/06/2023 18:30",
+    "kraj": "11/02/2023 20:15",
+    "predmet": "UUP",
+    "profesor": "Nikola Redzic",
+    "racunar": "DA",
+    "projektor": "DA"
+  },
+  {
+    "ucionica": "RAF4",
+    "pocetak": "10/06/2023 19:15",
+    "kraj": "11/02/2023 21:00",
+    "predmet": "SK",
+    "profesor": "Jefimija Najdic",
+    "racunar": "DA",
+    "projektor": "DA"
+  },
+  {
+    "ucionica": "RAF5",
+    "pocetak": "10/06/2023 19:15",
+    "kraj": "11/02/2023 20:00",
+    "predmet": "SJ",
+    "profesor": "Milos Radenkovic",
+    "racunar": "DA",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF6",
+    "pocetak": "10/05/2023 15:15",
+    "kraj": "11/02/2023 17:00",
+    "predmet": "TS",
+    "profesor": "Sava Ivkovic",
+    "racunar": "NE",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF7",
+    "pocetak": "10/06/2023 18:15",
+    "kraj": "11/02/2023 20:00",
+    "predmet": "DS",
+    "profesor": "Mihail Jovanoski",
+    "racunar": "NE",
+    "projektor": "DA"
+  },
+  {
+    "ucionica": "RAF1",
+    "pocetak": "10/12/2023 13:00",
+    "kraj": "11/09/2023 14:45",
+    "predmet": "UUP",
+    "profesor": "Mladen Jovanovic",
+    "racunar": "DA",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF5",
+    "pocetak": "10/12/2023 14:45",
+    "kraj": "11/09/2023 16:30",
+    "predmet": "UUP",
+    "profesor": "Jefimija Najdic",
+    "racunar": "DA",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF6",
+    "pocetak": "10/12/2023 16:15",
+    "kraj": "11/09/2023 18:00",
+    "predmet": "TS",
+    "profesor": "Sava Ivkovic",
+    "racunar": "NE",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF1",
+    "pocetak": "10/12/2023 17:00",
+    "kraj": "11/09/2023 18:45",
+    "predmet": "SK",
+    "profesor": "Nikola Redzic",
+    "racunar": "DA",
+    "projektor": "NE"
+  },
+  {
+    "ucionica": "RAF7",
+    "pocetak": "10/14/2023 09:00",
+    "kraj": "10/16/2023 11:00",
+    "predmet": "SK",
+    "profesor": "Nikola Redzic",
+    "racunar": "NE",
+    "projektor": "DA"
+  },
+  {
+    "ucionica": "RAF5",
+    "pocetak": "10/14/2023 11:00",
+    "kraj": "10/23/2023 12:00",
+    "predmet": "UUP",
+    "profesor": "Mladen Jovanovic",
+    "racunar": "DA",
+    "projektor": "NE"
+  }
+]
