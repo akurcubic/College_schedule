@@ -41,8 +41,3 @@ This project is a library designed to manage schedules with two different implem
   - **Load Schedule:** Load schedule data from CSV (RAF schedule) and room data from a TXT file.
   - **Specify Period:** Define the schedule period and excluded days via console input or file.
   - **Schedule Operations:** Support viewing, searching, booking, moving entries, and saving the schedule to a file (for groups, rooms, instructors, or the entire schedule).
-
-## Technologies Used
-- **Programming Languages:** [Specify languages used, e.g., Java, Python, etc.]
-- **Frameworks/Libraries:** [Specify any other frameworks, e.g., Spring Boot, etc.]
-- **Tools:** [Specify tools used, e.g., Docker, etc.]
